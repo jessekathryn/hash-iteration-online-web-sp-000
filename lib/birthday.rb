@@ -16,6 +16,7 @@ def age_appropriate_birthday(birthday_kids)
    puts "You are too old for this"
  else
    happy_birthday
+  end
  end
 end
 
