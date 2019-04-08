@@ -15,7 +15,7 @@ def age_appropriate_birthday(birthday_kids)
  if age > 12
    puts "You are too old for this."
  else
-   puts "You are too old for this."
+   happy_birthday(birthday_kids)
   end
  end
 end
